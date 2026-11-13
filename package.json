@@ -1,0 +1,34 @@
+{
+  "name": "dsh-surface-finish",
+  "version": "0.1.0",
+  "description": "表面处理选型与工艺参数：阳极氧化/喷涂/电镀/钝化/电泳 的膜厚与成本",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "surface finish",
+    "表面处理",
+    "anodizing",
+    "coating",
+    "plating"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-surface-finish.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "dsh": ">=0.2.0-rc.2"
+  }
+}
