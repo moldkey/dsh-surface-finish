@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-surface-finish.svg)](https://deepseekbase.com/plugins/dsh-surface-finish/)
 <p align="center"><strong>dsh-surface-finish — 表面处理</strong></p>
 
 按基材与耐蚀/耐磨/外观/导电要求推荐工艺，给膜厚与成本指数。
